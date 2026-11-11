@@ -1,0 +1,14 @@
+{
+  "pgsql.connections": [
+    {
+      "profileName": "MYSD PostgreSQL",
+      "server": "localhost",
+      "port": 5432,
+      "database": "mysd",
+      "user": "student",
+      "password": "",
+      "authenticationType": "SqlLogin",
+      "savePassword": true
+    }
+  ]
+}
